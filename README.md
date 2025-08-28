@@ -87,7 +87,6 @@ An IoT-enabled smart aeroponic system designed to optimize soilless plant cultiv
 
 ## 📚 Documentation
 - [Project Report](./docs/Project_Report.pdf) - Detailed technical documentation
-- [Video Demo](./docs/Project_Demo.mp4) - System demonstration and results
 
 ## ⚖️ License
 This project is developed for academic purposes as part of the B.E. curriculum at Visvesvaraya Technological University (VTU).
