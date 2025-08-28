@@ -41,15 +41,15 @@ An IoT-enabled smart aeroponic system designed to optimize soilless plant cultiv
 
 ### System Architecture
 ![System Flowchart](./images/Flowchart.png)
-*System flowchart showing data flow and control logic*
+
 
 ### Hardware Components
 ![Sensors Used](./images/Sensors.jpg)
-*Various sensors used in the aeroponic system*
+
 
 ### System Prototype
 ![Aeroponic Prototype](./images/prototype.jpg)
-*Complete aeroponic system prototype with grow chamber*
+
 ## 🚀 Getting Started
 
 ### Prerequisites
