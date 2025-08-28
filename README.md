@@ -92,6 +92,7 @@ An IoT-enabled smart aeroponic system designed to optimize soilless plant cultiv
 This project is developed for academic purposes as part of the B.E. curriculum at Visvesvaraya Technological University (VTU).
 
 ## 🙏 Acknowledgments
+- **Team**: Indupriya B, Chethan S, Manjukishore 
 - **Project Guide**: Dr. Chandrappa D N, Professor & Head, Dept. of ECE
 - **Project Coordinators**: Mr. Bhaskar B and Mrs. Uma S
 - SJB Institute of Technology for providing facilities and support
